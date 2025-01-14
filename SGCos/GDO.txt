@@ -1,0 +1,8 @@
+Name  Frequency  Code  Instruction
+
+
+SG1	    1234      4321      openIris
+SG2	    3624      1285      openIris
+SG3	    1402      1111      openIris
+SG-C    1234      5546      closeIris
+SG-V    1402      1001      closeVortex

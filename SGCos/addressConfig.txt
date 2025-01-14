@@ -1,0 +1,4 @@
+SolSysAd: Name - irisConfig - PegSymbols - PegPoo
+LocalAd:  Name - irisConfig - SendCode - RecieveCode - PegSymbols - PegPoo - Group1,Group2,etc...
+codes: "<frequency>.<code>"
+Abydos , default , default , default
